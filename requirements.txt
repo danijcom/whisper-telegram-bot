@@ -1,0 +1,5 @@
+pyrogram==2.0.106
+tgcrypto
+openai==0.27
+soundfile
+loguru
