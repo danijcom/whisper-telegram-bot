@@ -1,4 +1,5 @@
-# Whisper Telegram bot
+# Whisper Speach To Text Telegram bot
+(just a small and simple bot I've created for myself)
 
 # Installation
 1. Clone this repository to your local machine
