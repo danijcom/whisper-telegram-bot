@@ -1,4 +1,4 @@
-# Whisper Speach To Text Telegram bot
+# Whisper Speech To Text Telegram bot
 (just a small and simple bot I've created for myself)
 
 # Installation
