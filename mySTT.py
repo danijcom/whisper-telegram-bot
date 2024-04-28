@@ -50,3 +50,6 @@ class MySTT:
     def _clean_up(self):
         if len(self.cached) > self.max_cache:
             self.cached.pop(0)
+            dict_items = list(self.cached.items())
+            del dict_items[0]
+            self.cached = dict(dict_items)
